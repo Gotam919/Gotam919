@@ -2,7 +2,7 @@
 - 👀 I’m interested in building...
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @imbiggestnoob
+- 📫 wanna reach me? search @imbiggestnoob in Telegram
 
 <!---
 Gotam919/Gotam919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
